@@ -12,8 +12,5 @@
       "src": "/(.*)",
       "dest": "lib/router.js"
     }
-  ],
-    "engines": {
-    "node": "16.x"  
-  }
+  ]
 }
