@@ -12,12 +12,5 @@
       "src": "/(.*)",
       "dest": "lib/router.js"
     }
-  ],
-    {
-  "build": {
-    "env": {
-      "PNPM_FLAGS": "--no-frozen-lockfile"
-    }
-  }
-}
+  ]
 }
