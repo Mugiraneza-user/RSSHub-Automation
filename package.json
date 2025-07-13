@@ -13,6 +13,10 @@
         "type": "git",
         "url": "git+https://github.com/DIYgod/RSSHub.git"
     },
+  ,
+    "engines": {
+    "node": "16.x"  
+  },
     "license": "MIT",
     "author": "DIYgod",
     "type": "module",
